@@ -127,9 +127,8 @@ line-height: 1.2em;
     color: #fff;
     cursor: pointer;
 }
-.card .content .details .actionBtn button:nth-child(2)
+.card .content .details .actionBtn button:hover
 {
-    border: 1px solid #ffd89b;
     color: #19547b;
     background: #ffd89b;
 }
